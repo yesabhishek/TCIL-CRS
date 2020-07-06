@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Tinplate.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style3
+        {
+            text-align: center;
+            background-color: #CCFFFF;
+        }
+        .style4
+        {
+            background-color: #CCFFFF;
+        }
+        #form1
+        {
+            background-color: #FFFFFF;
+        }
+        .style5
+        {
+            font-size: x-large;
+        }
+        .style6
+        {
+            width: 104px;
+            height: 123px;
+            float: left;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        
+            <center dir="rtl" 
+                
+                style="font-size: xx-large; font-style: normal; background-color: #0066FF; color: #FFFFFF;">
+                
+                <img align="middle" alt="" class="style6" 
+                    src="img/tinplate.jpg" /><br />
+                &nbsp;&nbsp;&nbsp;<span class="style5">&nbsp;&nbsp;THE TINPLATE COMPANY OF INDIA LIMITED</span></span><br />                
+                &nbsp;</center>
+            <center style="background-color: #C0C0C0; height: 19px;">
+                A <strong>TATA</strong> ENTERPRISE</center>
+    </div>
+    <br /> <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder><br />
+        <div class="footer">
+        <p class="style3"> <span class="style4">All rights reserved to you</span> </p>
+    </div>
+        
+     </form>
+    
+</body>
+</html>

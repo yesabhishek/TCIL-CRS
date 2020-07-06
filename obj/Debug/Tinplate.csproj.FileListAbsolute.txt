@@ -1,0 +1,10 @@
+c:\users\win10\documents\visual studio 2010\Projects\Tinplate\Tinplate\bin\Tinplate.dll
+c:\users\win10\documents\visual studio 2010\Projects\Tinplate\Tinplate\bin\Tinplate.pdb
+c:\users\win10\documents\visual studio 2010\Projects\Tinplate\Tinplate\obj\Debug\Tinplate.dll
+c:\users\win10\documents\visual studio 2010\Projects\Tinplate\Tinplate\obj\Debug\Tinplate.pdb
+C:\Users\win10\Documents\Visual Studio 2010\Projects\Tinplate\Tinplate\obj\Debug\Tinplate.csprojResolveAssemblyReference.cache
+C:\Users\nEW u\Documents\Visual Studio 2010\Projects\Tinplate\Tinplate\bin\Tinplate.dll
+C:\Users\nEW u\Documents\Visual Studio 2010\Projects\Tinplate\Tinplate\bin\Tinplate.pdb
+C:\Users\nEW u\Documents\Visual Studio 2010\Projects\Tinplate\Tinplate\obj\Debug\Tinplate.csprojResolveAssemblyReference.cache
+C:\Users\nEW u\Documents\Visual Studio 2010\Projects\Tinplate\Tinplate\obj\Debug\Tinplate.dll
+C:\Users\nEW u\Documents\Visual Studio 2010\Projects\Tinplate\Tinplate\obj\Debug\Tinplate.pdb
